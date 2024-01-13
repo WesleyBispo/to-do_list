@@ -1,0 +1,14 @@
+body {
+  background-color: #1E1E26;
+}
+
+.Toastify__toast-theme--colored.Toastify__toast--error{
+  background-color: #e82d4c;
+}
+.Toastify__toast-theme--colored.Toastify__toast--success{
+  background-color: #07D962;
+}
+
+.Toastify__toast-theme--colored.Toastify__toast--info{
+  background-color: #67159C;
+}
